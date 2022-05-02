@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27972" started-at="2022-05-02T14:48:44Z" finished-at="2022-05-02T14:49:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27972" started-at="2022-05-02T14:48:44Z" finished-at="2022-05-02T14:49:12Z">
+      <class name="com.flipkart.automationProject.FlipkartAutomation.FlipkartAppTest">
+        <test-method status="PASS" signature="openURL()[pri:1, instance:com.flipkart.automationProject.FlipkartAutomation.FlipkartAppTest@3d24753a]" name="openURL" duration-ms="13700" started-at="2022-05-02T20:18:44Z" finished-at="2022-05-02T20:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method status="PASS" signature="close()[pri:2, instance:com.flipkart.automationProject.FlipkartAutomation.FlipkartAppTest@3d24753a]" name="close" duration-ms="247" started-at="2022-05-02T20:18:58Z" finished-at="2022-05-02T20:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="grocery()[pri:3, instance:com.flipkart.automationProject.FlipkartAutomation.FlipkartAppTest@3d24753a]" name="grocery" duration-ms="2164" started-at="2022-05-02T20:18:58Z" finished-at="2022-05-02T20:19:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grocery -->
+        <test-method status="PASS" signature="pincode()[pri:4, instance:com.flipkart.automationProject.FlipkartAutomation.FlipkartAppTest@3d24753a]" name="pincode" duration-ms="848" started-at="2022-05-02T20:19:00Z" finished-at="2022-05-02T20:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pincode -->
+        <test-method status="PASS" signature="searchForSugar()[pri:5, instance:com.flipkart.automationProject.FlipkartAutomation.FlipkartAppTest@3d24753a]" name="searchForSugar" duration-ms="711" started-at="2022-05-02T20:19:01Z" finished-at="2022-05-02T20:19:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForSugar -->
+        <test-method status="PASS" signature="selectLastItem()[pri:6, instance:com.flipkart.automationProject.FlipkartAutomation.FlipkartAppTest@3d24753a]" name="selectLastItem" duration-ms="9508" started-at="2022-05-02T20:19:02Z" finished-at="2022-05-02T20:19:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectLastItem -->
+        <test-method status="PASS" signature="takeScreenshot()[pri:7, instance:com.flipkart.automationProject.FlipkartAutomation.FlipkartAppTest@3d24753a]" name="takeScreenshot" duration-ms="746" started-at="2022-05-02T20:19:11Z" finished-at="2022-05-02T20:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+      </class> <!-- com.flipkart.automationProject.FlipkartAutomation.FlipkartAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
